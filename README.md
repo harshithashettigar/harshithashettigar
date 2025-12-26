@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently learning Frontend Development.<br>
+• I'm currently learning Frontend Development.<br>
 
 
 ## 🌐 Socials:
